@@ -107,8 +107,7 @@ div #slide{
 #slide .text-content{
     position: absolute;
     bottom: 47px;
-    /* left: 50%;
-    transform: translateX(-50%); */
+
     width: 100%;
     text-align: center;
     color: #fff;
